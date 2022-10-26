@@ -2,5 +2,5 @@
 
 - 🌱 I’m currently learning React Native
 - 🌱 I know a little bit about Flutter and Web development (html/css/js)
-- 🌱 Frontend Enthusiast
+- 🌱 Front-end Enthusiast
 
