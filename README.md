@@ -4,6 +4,5 @@
 - 🌱 I know a little bit about React Native
 - 🌱 Front-end Enthusiast
 
-LinkedIn: <a href='https://linkedin/in/renansaatman' target='_blank'>/renansaatman</a>
-Email: renan.saatman@gmail.com
-Phone: +55 84 998197858
+
+LinkedIn: [/renansaatman](https://linkedin.com/in/renansaatman)&emsp;&emsp;Email: renan.saatman@gmail.com&emsp;&emsp;Phone: +55 84 998197858
