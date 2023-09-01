@@ -5,4 +5,4 @@
 - 🌱 Front-end Enthusiast
 
 
-LinkedIn: [/renansaatman](https://linkedin.com/in/renansaatman)&emsp;&emsp;Email: renan.saatman@gmail.com&emsp;&emsp;Phone: +55 84 998197858
+LinkedIn: [/renansaatman](https://linkedin.com/in/renansaatman){:target="_blank"}&emsp;&emsp;Email: renan.saatman@gmail.com&emsp;&emsp;Phone: +55 84 998197858
